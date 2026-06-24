@@ -14,7 +14,7 @@
 - 🎓 Statistics undergraduate at **Korea University**
 - 👥 **BITAmin 16기** — 대학생 연합 빅데이터 동아리
 - 🤖 Applied / competitive ML 
-- 🌏 Bilingual **English / 한국어** (OPIc **IH**) ·
+- 🌏 Bilingual **English / 한국어** (OPIc **IH**) 
 - 📜 ADsP · SQLD · 사회조사분석사 2급
 
 ## 🚀 Projects
