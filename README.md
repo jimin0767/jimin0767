@@ -13,9 +13,9 @@
 
 - 🎓 Statistics undergraduate at **Korea University**
 - 👥 **BITAmin 16기** — 대학생 연합 빅데이터 동아리
-- 🤖 Applied / competitive ML — cheminformatics, computer vision, reinforcement learning, geospatial optimization
-- 🌏 Bilingual **English / 한국어** (OPIc **IH**) · 📜 ADsP · SQLD · 사회조사분석사 2급
-- 📂 *Project details live in each repo's own README*
+- 🤖 Applied / competitive ML 
+- 🌏 Bilingual **English / 한국어** (OPIc **IH**) ·
+- 📜 ADsP · SQLD · 사회조사분석사 2급
 
 ## 🚀 Projects
 
