@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Jimin 👋</h1>
+<h1 align="center">Hi, I'm Jimin (정지민) 👋</h1>
 
 <p align="center">
-  <b>Statistics @ Korea University</b> · Competitive ML · Reinforcement Learning · Geospatial Data Science
+  <b>Statistics undergrad @ Korea University</b> · Competitive ML · Reinforcement Learning · Geospatial Data Science
 </p>
 
 <p align="center">
@@ -11,30 +11,23 @@
 
 ---
 
-Statistics undergrad at **Korea University** and member of **BITAmin (대학생 연합 빅데이터 동아리)**. I work mostly in **applied / competitive machine learning** — cheminformatics, computer vision, reinforcement learning, and city-scale geospatial optimization. *(Details in each project's own README.)*
+- 🎓 Statistics undergraduate at **Korea University**
+- 👥 **BITAmin 16기** — 대학생 연합 빅데이터 동아리
+- 🤖 Applied / competitive ML — cheminformatics, computer vision, reinforcement learning, geospatial optimization
+- 🌏 Bilingual **English / 한국어** (OPIc **IH**) · 📜 ADsP · SQLD · 사회조사분석사 2급
+- 📂 *Project details live in each repo's own README*
 
 ## 🚀 Projects
 
-| Project | Highlight | Code |
-|---------|-----------|------|
-| **hERG Inhibition Prediction** · 제3회 MixUp Hackathon | 🥈 **2nd place (우수상)** | *soon* |
-| **Structural Stability Physics AI** · 월간 데이콘 | 🥇 **Public 1st / Private 4th** | *soon* |
-| **Risk-Aware PPO Trading Agent** · FinRL Contest (KU) | 🥇 **1st place** | *soon* |
-| **SkyBase Seoul** · 2026 서울시 빅데이터 경진대회 | Drone-hub siting · H3 + MapLibre 3D | [↗](https://github.com/jimin0767/skybase-seoul) |
-| **Aero-Logic Seongnam** · 2026 성남시 시각화 경진대회 | Drone + robot siting dashboard | [↗](https://github.com/jimin0767/Aero-Logic-seongnam) |
-| **Zindi Financial Health** · BITAmin | Per-country GBDT ensemble | *soon* |
-
-<sub>🎖️ Also: Top 10% — LG Aimers 8기 (Dacon) · 🎲 Side project: <b>Kujiman</b> full-stack data dashboard (React · Supabase · Netlify)</sub>
+| Project | Highlight |
+|---------|-----------|
+| **hERG Inhibition Prediction** · 제3회 MixUp Hackathon | 🥈 **2nd place (우수상)** |
+| **Structural Stability Physics AI** · 월간 데이콘 | 🥇 **Public 1st / Private 4th** |
+| **Risk-Aware PPO Trading Agent** · FinRL Contest (KU) | 🥇 **1st place** |
 
 ## 🛠️ Tech Stack
 
 `Python` · `R` · `SQL` &nbsp;|&nbsp; `PyTorch` · `PyTorch Geometric` · `scikit-learn` · `LightGBM` / `XGBoost` / `CatBoost` · `Optuna` · `Stable-Baselines3` &nbsp;|&nbsp; `pandas` · `GeoPandas` · `H3` · `MapLibre GL JS` · `Tableau`
-
-## 🎓 Background
-
-- 🎓 **B.S. Statistics**, Korea University · **BITAmin 16기**
-- 🌏 Bilingual **English / 한국어** (OPIc **IH**)
-- 📜 **ADsP** · **SQLD** · **사회조사분석사 2급**
 
 ## 📊 GitHub
 
