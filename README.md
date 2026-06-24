@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jimin (정지민) 👋</h1>
 
 <p align="center">
-  <b>Statistics undergrad @ Korea University</b> · Competitive ML · Reinforcement Learning · Geospatial Data Science
+  <b>Statistics undergrad @ Korea University</b> · Competitive ML · Reinforcement Learning
 </p>
 
 <p align="center">
