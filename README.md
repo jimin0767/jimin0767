@@ -21,8 +21,8 @@
 
 | Project | Highlight |
 |---------|-----------|
-| **hERG Inhibition Prediction** · 제3회 MixUp Hackathon | 🥈 **2nd place (우수상)** |
-| **Structural Stability Physics AI** · 월간 데이콘 | 🥇 **Public 1st / Private 4th** |
+| **[hERG Inhibition Prediction](https://github.com/jimin0767/mixup-hackathon-herg-inhibition)** · 제3회 MixUp Hackathon | 🥈 **2nd place (우수상)** |
+| **[Structural Stability Physics AI](https://github.com/jimin0767/dacon-2026-03-structural-stability)** · 월간 데이콘 | 🥇 **Public 1st / Private 4th** |
 | **[Risk-Aware PPO Trading Agent](https://github.com/jimin0767/finrl-risk-aware-ppo)** · FinRL Contest (KU) | 🥇 **1st place** |
 
 ## 🛠️ Tech Stack
