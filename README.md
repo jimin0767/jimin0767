@@ -14,7 +14,7 @@
 - 🎓 Statistics undergraduate at **Korea University**
 - 👥 **BITAmin 16th Member** — Intercollegiate Big Data Club
 - 🤖 Applied / competitive ML
-- 🌏 Bilingual **한국어 / English** (OPIc **IH**) · 📜 ADsP · SQLD · 사회조사분석사 2급
+- 🌏 Trilingual: **한국어 / Burmese / English** (OPIc **IH**) · 📜 ADsP · SQLD · 사회조사분석사 2급
 - 📂 *Project details live in each repo's own README*
 
 ## 🚀 Projects
