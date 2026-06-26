@@ -29,11 +29,4 @@
 
 `Python` · `R` · `SQL` &nbsp;|&nbsp; `PyTorch` · `PyTorch Geometric` · `scikit-learn` · `LightGBM` / `XGBoost` / `CatBoost` · `Optuna` · `Stable-Baselines3` &nbsp;|&nbsp; `pandas` · `GeoPandas` · `H3` · `MapLibre GL JS` · `Tableau`
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jimin0767&show_icons=true&hide_border=true" alt="GitHub Stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimin0767&layout=compact&hide_border=true" alt="Top Languages">
-</p>
-
 <p align="center"><sub>📫 jimin.0767.21@gmail.com</sub></p>
